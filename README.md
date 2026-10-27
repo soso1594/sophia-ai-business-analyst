@@ -1,4 +1,4 @@
-# Sophia — AI Business Analyst
+# Sophia: AI Business Analyst
 
 Sophia is a local AI assistant designed to analyze business documents and answer questions using a Retrieval-Augmented Generation (RAG) pipeline.
 
